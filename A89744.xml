@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Gorings message to the Lord Generall, concerning the surrendring of the town of Colchester, with all the ordnance, armes, and ammunition. And the severall attempts of Generall Hastings, and Sir Charles Lucas to escape away with their horse. Together with a list of the officers and souldiers that were slain and taken prisoners, viz. slain 3. collonels. 2 lieut. collonels. 3. majors. 200. officers and souldiers. Taken prisoners 16. captains, lieutenants, ensignes, and other officers. 500. common souldiers.</title>
+            <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89744</idno>
+            <idno type="STC">Wing N1336</idno>
+            <idno type="STC">Thomason E448_10</idno>
+            <idno type="EEBO-CITATION">99863147</idno>
+            <idno type="PROQUEST">99863147</idno>
+            <idno type="VID">161830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161830)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Gorings message to the Lord Generall, concerning the surrendring of the town of Colchester, with all the ordnance, armes, and ammunition. And the severall attempts of Generall Hastings, and Sir Charles Lucas to escape away with their horse. Together with a list of the officers and souldiers that were slain and taken prisoners, viz. slain 3. collonels. 2 lieut. collonels. 3. majors. 200. officers and souldiers. Taken prisoners 16. captains, lieutenants, ensignes, and other officers. 500. common souldiers.</title>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "slain .. officers and souldiers." and "Taken .. common souldiers." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Loughborough, Henry Hastings, --  Baron, 1610-1667 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161830:1" rendition="simple:additions"/>
+            <p>THE LORD GORINGS <hi>MESSAGE</hi> TO THE Lord Generall, <hi>CONCERNING</hi> The ſurrendring of the Town of <hi>Col<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſter,</hi> with all the Ordnance, Armes, and Ammunition.</p>
+            <p>And the ſeverall Attempts of Generall <hi>Haſtings,</hi> and Sir <hi>Charles Lucas</hi> to eſcape a way with their Horſe.</p>
+            <p>Together with a Liſt of the Officers and Souldiers that were ſlain and taken priſoners, <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <list>
+                        <head>Slain</head>
+                        <item>3. Collonels.</item>
+                        <item>2. Lieut. Collonels.</item>
+                        <item>3. Majors.</item>
+                        <item>200. Officers and Souldiers.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Taken Priſoners</head>
+                        <item>16. Captans, Lieute<g ref="char:EOLhyphen"/>nants, Enſignes, and o<g ref="char:EOLhyphen"/>ther Officers.</item>
+                        <item>500. Common Souldiers.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <add>June 17</add>
+            </p>
+            <p>LONDON. Printed for <hi>R. W.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161830:2"/>
+            <pb n="1" facs="tcp:161830:2"/>
+            <opener>
+               <dateline>
+                  <date>June 15. 1648.</date>
+               </dateline>
+            </opener>
+            <head>To the Honourable, VVILLIAMAM LENTHAL <abbr>Eſq</abbr> 
+               <hi>Speaker of the Honourable</hi> Houſe of COMMONS.</head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Enemy ſtill con<g ref="char:EOLhyphen"/>tinues in COL<g ref="char:EOLhyphen"/>CHESTER, The great ones had a purpoſe laſt night to eſcape, as wee heare, for their goods are ſhipped, and ſent a Party to poſſeſſe MERSEY I<g ref="char:EOLhyphen"/>land
+<pb n="2" facs="tcp:161830:3"/>
+ſFort, the better to ſecure their paſ<g ref="char:EOLhyphen"/>ſage to Sea; but this morning early, our Horſe and Dragoones paſſed the Iſland and Foot, and ſo hath prevented the Ene<g ref="char:EOLhyphen"/>mies flight by Sea; and by Land their body cannot ſtirre: ſome Horſe may perchance in the night eſcape, &amp; leave the reſt to ſlaughter. For ſuch is the rage of the Souldier for the loſſe of their Com<g ref="char:EOLhyphen"/>manders, that they will hardly admit of quarter. Many honeſt people (though the meaner ſort) ſteale out of towne hour<g ref="char:EOLhyphen"/>ly to us; and all agree in one ſtory, That the Enemy knows not which way to turn himſelfe, that he is deſperate, and thinks to get Conditions for themſelves, by their ha<g ref="char:EOLhyphen"/>ving Sir WILLIAM MASSHAM, and others of the Committee priſoners.</p>
+            <p>The Generall ſent a Trumpeter to ſee Sir <hi>William Maſham,</hi> but they yet detain the Trumpeter. The Townſmen ſay, they had ſix hun<g ref="char:EOLhyphen"/>dred men run away that night the fight was; we have Five hundred Priſoners, moſt taken from the Gats
+<pb n="3" facs="tcp:161830:3"/>
+of the City. The Enemy buried of their ſlain men, Sixty in one Church yard, beſides what was ſlain in the other part of the Town, they ſay, that Sir <hi>William Campion,</hi> and one Knight more, Col: <hi>Cooke</hi> and two Majors, and other Officers were ſlain; ſome priſoners we have taken ſince confeſs as much, and many of quality wounded; many of the priſo<g ref="char:EOLhyphen"/>ners of the Trained bands; (which this day the General releaſed, being ſore wounded) ſay, that they went under Col. <hi>Farre,</hi> my Lord <hi>Warwicks</hi> Lieutenant Colonel, that he lead them out into the field, and into Mr. <hi>Grimſtons</hi> houſe; and when he and the men fled, being galled with our Musketiers, he got to the gate, and cauſed it to be ſhut, and left his men to be cut in pieces without the wall, if
+<pb n="4" facs="tcp:161830:4"/>
+our Soldiers had not been more mer<g ref="char:EOLhyphen"/>cifull. The General is cloſe beleaguer<g ref="char:EOLhyphen"/>ing the Town; this day Col. <hi>Ewers</hi> is come up with his Regiment, and all our Train: The General purpoſes to preſerve the town from plunder and fire, if it be poſſible; though one <hi>Buxton</hi> and the <hi>Leomons,</hi> and many more (as thoſe that come out in form) encourages GORING and the Cavaliers to hold out. Many an honeſt boyd is und on by them God is only wiſe, for who could have found out ſuch a way to unite the ho<g ref="char:EOLhyphen"/>neſt party together againſt this bloody &amp; common Enemy? There are 4. Colonels taken at Newmarket, about to raiſe men for the King, Col. ſir BAR. SCUDAMORE is one of them. If the News of any ſucceſs this Army hath were acceptable, you would ſend one weeks pay to an Army that hath not had a penny this Moneth. I. R.</p>
+            <p>The Generalls Trumpeter is returned, who left Sir William Maſham and the o<g ref="char:EOLhyphen"/>ther Gentlemen in a reaſonable good con<g ref="char:EOLhyphen"/>dition,
+<pb n="5" facs="tcp:161830:4"/>
+he ſaith, Sir Wil Campion and one Col. Cook were buried this afternoon, their Corps attended by the Lord Goring, Lord Capel, Lord Louthborough, Sir Wil. Compton, and divers others of quality. They much lament the loſſe of Major Eyres, whom they thought we had priſo<g ref="char:EOLhyphen"/>ner, but he was ſlain.</p>
+            <p>Captain Zanchy, who took in Merſey-Fort, found two Culverins, two Sacres, and one Drake in it, Captain Peacock, and the Commanders of the Ships at Har wich have ſent to the Generall to aſſiſt him, in the Harbour of Coln River, if the Fort at Merſey be ours, of which the General hath ſent them word, Col. Stewart, and Col. Thornton were taken with Sir Barn. Scu<g ref="char:EOLhyphen"/>damore.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter from Newmarket the 17. of June. 1648.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon <hi>Thurſday</hi> laſt, about three of the clock in the afternoon, Captaine <hi>Pickering</hi> recei<g ref="char:EOLhyphen"/>ved intelligence, that divers eminent Commanders were at <hi>Newmarket,</hi> plotting and contriving how they ſhould raiſe and ſeduce the Inhabitants, to
+<pb n="6" facs="tcp:161830:5"/>
+ſerve the King againſt the Parliament; and the bet<g ref="char:EOLhyphen"/>ter to effect, rode up to the Market place, declaring <hi>That all Gentlemen whatſoever, that had a deſire to ſerve his Majeſtie, for the defence and preſervation of his Royall Perſon, the Proteſtant Religion, the fundamen<g ref="char:EOLhyphen"/>tall Laws of the Kingdome, and the Libertie of the Sub<g ref="char:EOLhyphen"/>ject ſhould repaire to the Kings Armes, there to receive preſent entertainment, and advance money;</hi> Whereup<g ref="char:EOLhyphen"/>on divers reſorted thither, Proteſting to live and dye in the Cauſe. But in the very interim of time, Captaine <hi>Pickering,</hi> came in with his Troop, who ended their Deſignes, diſperſing thoſe that were gathered together, and ſeizing on the perſons of the Commanders in chiefe, but with ſome diffi<g ref="char:EOLhyphen"/>culty; for Collonell <hi>Stewart,</hi> Coll. <hi>Shornton,</hi> and Coll. <hi>Scudamore,</hi> ſhot out at the Chamber win<g ref="char:EOLhyphen"/>dowes, and maintained the doores, which cauſed the exchange of ſeverall bullets, but after ſome few ſhots on each ſide, Captaine <hi>Pickering</hi> with 12 of his men, entred the Chambers, ſeized on the ſaid Colonells, with loſſe of one man; for they fought it our very reſolutly, but at laſt ſub<g ref="char:EOLhyphen"/>mitted to mercy.</p>
+            <closer>
+               <dateline>Newmarket, <date>17 of June, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>FRom <hi>Colcheſter</hi> we are informed, that Cot. <hi>Goring</hi> is ve<g ref="char:EOLhyphen"/>ry much ſtraitned, his Excellency having cloſely beſieged the ſaid City; inſomuch, that <hi>Goring, Capel, Loughbo<g ref="char:EOLhyphen"/>rough, &amp;c.</hi> diſtruſting their own ſafeties, have made ſeveral attempts with their horſe to break through his Excellincios forces; but finding it no way ſecible; have ſent a Meſſage to the Generall (as is ſuppoſed) to this effect, viz. That if His Excellency will be pleaſed to ſigne certain Articles, that they may march forth with their horſe and armes, without letter moleſtation, they will ſurrender the Town, with all their Ordnance, Armes, and Ammunition.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
